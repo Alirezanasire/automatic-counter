@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://soft14.storage.iran.liara.space/123/nody-%DA%AF%DB%8C%D9%81-%D9%88-%D8%B9%DA%A9%D8%B3-%D8%AE%D9%86%D8%AF%D9%87-%D8%AF%D8%A7%D8%B1-1662781226.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(124, 127, 141);
+}
+
+p {
+    color: rgb(75, 74, 74);
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
